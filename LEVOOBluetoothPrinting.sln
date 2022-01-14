@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LEVOOBluetoothPrinting.Android", "LEVOOBluetoothPrinting\LEVOOBluetoothPrinting.Android\LEVOOBluetoothPrinting.Android.csproj", "{2F038BA7-64B7-4A37-AA05-66F1CBF3470B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LEVOOBluetoothPrinting", "LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting.csproj", "{5FAB0BFB-0DDD-4C51-8ABD-481AF7083A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F038BA7-64B7-4A37-AA05-66F1CBF3470B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F038BA7-64B7-4A37-AA05-66F1CBF3470B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F038BA7-64B7-4A37-AA05-66F1CBF3470B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2F038BA7-64B7-4A37-AA05-66F1CBF3470B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F038BA7-64B7-4A37-AA05-66F1CBF3470B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F038BA7-64B7-4A37-AA05-66F1CBF3470B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5FAB0BFB-0DDD-4C51-8ABD-481AF7083A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAB0BFB-0DDD-4C51-8ABD-481AF7083A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAB0BFB-0DDD-4C51-8ABD-481AF7083A54}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5FAB0BFB-0DDD-4C51-8ABD-481AF7083A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAB0BFB-0DDD-4C51-8ABD-481AF7083A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FAB0BFB-0DDD-4C51-8ABD-481AF7083A54}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0A59DB8-B018-4A7D-B926-BBFBDD41B560}
+	EndGlobalSection
+EndGlobal

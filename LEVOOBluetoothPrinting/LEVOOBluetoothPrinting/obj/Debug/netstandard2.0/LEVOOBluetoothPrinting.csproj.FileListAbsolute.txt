@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\LEVOOBluetoothPrinting.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\LEVOOBluetoothPrinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\LEVOOBluetoothPrinting.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\LEVOOBluetoothPrinting.AssemblyInfo.cs
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\LEVOOBluetoothPrinting.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\bin\Debug\netstandard2.0\LEVOOBluetoothPrinting.deps.json
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\bin\Debug\netstandard2.0\LEVOOBluetoothPrinting.dll
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\bin\Debug\netstandard2.0\ref\LEVOOBluetoothPrinting.dll
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\bin\Debug\netstandard2.0\LEVOOBluetoothPrinting.pdb
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\LEVOOBluetoothPrinting.dll
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\ref\LEVOOBluetoothPrinting.dll
+C:\Users\David\source\repos\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\LEVOOBluetoothPrinting\obj\Debug\netstandard2.0\LEVOOBluetoothPrinting.pdb
